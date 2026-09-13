@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Sandeha 👋
 
-<!--
-**Sandeha10/Sandeha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Web & Mobile Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building scalable, user-friendly
+web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Web & Mobile Developer
+-    Currently improving my skills in modern web technologies
+-    Interested in AI-powered applications
+-    Building real-world software projects
+- 📍 Colombo, Sri Lanka
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Node.js
+- Python
+- Java
+
+### Database
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- NetBeans
+
+---
+
+## 📌 Featured Projects
+
+### 🚕 Mega City Cab System
+A Java-based web application for managing cab bookings,
+customers, drivers and vehicles.
+
+**Tech:** Java • JSP • Servlets • MySQL
+
+### 🧠 MindEase AI
+An AI-powered mental health companion with emotion detection,
+sentiment analysis and crisis support features.
+
+**Tech:** Python • AI/ML • React • Node.js
+
+
+
+**Tech:** Android / Mobile Development
+
+---
+
+## 📊 GitHub Stats
+
+![Sandeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeha10&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: sandewaweerasingha25@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sandeha-weerasingha?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+---
+
+⭐ Thanks for visiting my profile!
