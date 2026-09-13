@@ -58,16 +58,8 @@ sentiment analysis and crisis support features.
 **Tech:** Python • AI/ML • React • Node.js
 
 
-
-**Tech:** Android / Mobile Development
-
 ---
 
-## 📊 GitHub Stats
-
-![Sandeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeha10&show_icons=true)
-
----
 
 ## 📫 Connect With Me
 
