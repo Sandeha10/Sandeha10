@@ -55,7 +55,7 @@ web and mobile applications.
 
 ## 📌 Featured Projects
 
-## 🌿 Velora Skin — Luxury Botanical E-Commerce
+##  Velora Skin — Luxury Botanical E-Commerce
 
 A production-grade headless botanical e-commerce platform with OWASP Top 10 threat mitigation,
 atomic inventory concurrency, and a high-fashion editorial UI.
@@ -63,17 +63,19 @@ atomic inventory concurrency, and a high-fashion editorial UI.
 ## Tech: React 18 • Node.js (Express 5) • MongoDB • Docker • Nginx • Stripe
 
 
-### 🚕 Mega City Cab System
+###  Mega City Cab System
 A Java-based web application for managing cab bookings,
 customers, drivers and vehicles.
 
-**Tech:** Java • JSP • Servlets • MySQL
+## Tech: Java • JSP • MongoDB • Servlets • MySQL 
 
-### 🧠 MindEase AI
+
+###  MindEase AI
 An AI-powered mental health companion with emotion detection,
 sentiment analysis and crisis support features.
 
-**Tech:** Python • AI/ML • React • Node.js
+## Tech: Python • AI/ML • React • Node.js  
+
 
 
 ---
