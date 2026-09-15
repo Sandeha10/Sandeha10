@@ -20,30 +20,48 @@ web and mobile applications.
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js
-- HTML
-- CSS
-- JavaScript
+- React.js / Vite
+- Tailwind CSS
+- TanStack React Query v5
+- Zustand (State Management)
+- JavaScript (ES6+)
+- HTML5 / CSS3
 
 ### Backend
-- Node.js
+- Node.js (Express 5)
 - Python
-- Java
+- Java (Servlets, JSP)
+- RESTful APIs & OWASP Security
+- Stripe SDK & Payment Webhooks
 
 ### Database
+- MongoDB (Mongoose, Indexing)
 - MySQL
 - PostgreSQL
-- MongoDB
+
+## DevOps, Edge & Cloud
+- Docker & Docker Compose
+- Nginx (Reverse Proxy)
+- Vercel / Render Deployment
+
 
 ### Tools
-- Git
-- GitHub
+- Git / GitHub
 - VS Code
 - NetBeans
+- Postman
 
 ---
 
 ## 📌 Featured Projects
+
+## 🌿 Velora Skin — Luxury Botanical E-Commerce
+
+A production-grade headless botanical e-commerce platform with OWASP Top 10 threat mitigation,
+atomic inventory concurrency, and a high-fashion editorial UI.
+
+## Tech: React 18 • Node.js (Express 5) • MongoDB • Docker • Nginx • Stripe
+
 
 ### 🚕 Mega City Cab System
 A Java-based web application for managing cab bookings,
