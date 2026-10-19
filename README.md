@@ -83,7 +83,7 @@ sentiment analysis and crisis support features.
 
 ## 📫 Connect With Me
 
-- 📧 Email: sandewaweerasingha25@gmail.com
+- 📧 Email: sande06@icloud.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sandeha-weerasingha?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
